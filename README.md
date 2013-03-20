@@ -3,6 +3,8 @@ iOS-OpenCV
 
 iOS OpenCV Sample
 
+[![](http://lukagabric.com/wp-content/uploads/2013/03/circle_ocv.png)](http://lukagabric.com/wp-content/uploads/2013/03/circle_ocv.png)
+
 Structure
 =========
 
