@@ -141,6 +141,9 @@
     CVPixelBufferUnlockBaseAddress(imageBuffer, 0);
 
     [self didCaptureIplImage:workingCopy];
+    
+    if( workingCopy != NULL )
+        cvReleaseImage(&workingCopy);
 }
 
 
